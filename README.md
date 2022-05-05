@@ -27,3 +27,5 @@ Curated collction of color palettes for web use, with Hex codes
 A simple tool for creating unique Favicons for you webpage.
 ### [FlatIcon.com](flaticon.com)
 Creative Commons library of Vector files and icon
+### [Giphy.com](giphy.com)
+Creative Commons colection on GIF images
