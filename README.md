@@ -33,3 +33,5 @@ A simple tool for creating unique Favicons for you webpage.
 Creative Commons library of Vector files and icon
 ### [Giphy.com](giphy.com)
 Creative Commons colection on GIF images
+### [Bootsnipp.com](bootsnipp.com)
+A library of bootstrap usable elements 
