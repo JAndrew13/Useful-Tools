@@ -35,3 +35,5 @@ Creative Commons library of Vector files and icon
 Creative Commons colection on GIF images
 ### [Bootsnipp.com](bootsnipp.com)
 A library of bootstrap usable elements 
+### [Mobile-Friendly Test](https://search.google.com/test/mobile-friendly)
+Tool for checking how "mobile-friendly" a website is.
