@@ -2,6 +2,8 @@
 A collection of useful online tools for development!
 
 # General 
+### [devdocs.io](devdocs.io)
+Full list of Code Documentation for all languages, with offline accesability.
 
 # Bootcamps and Coursework
 
@@ -15,7 +17,7 @@ A professional option to code challenges. Build your profile and prove your skil
 
 # Web Development
 
-###[Codeply.com](Codeply.com)
+### [Codeply.com](Codeply.com)
 A poweful online front end (html/js/css) code editor that allows the use of frameworks like Angular, React, and Vue. 
 ### [CSS Button Generator](https://css3buttongenerator.com/)
 A tool for creating all types of buttons
