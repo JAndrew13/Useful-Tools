@@ -1,11 +1,16 @@
 # Useful-Links
 A collection of useful online tools for development!
 
-# General 
+
+# Best of Links
 ### [devdocs.io](devdocs.io)
 Full list of Code Documentation for all languages, with offline accesability.
+
+# General 
 ### [StateOfJS.com](stateofjs.com)
 information about the current state of the JavaScript Language.
+### [Cryptii.com](cryptii.com)
+Online string encrytion playground
 
 # Bootcamps and Coursework
 ### [Complete Web Development Bootcamp 2022](https://www.udemy.com/share/101qYw3@pDsFMn3ZaM3xDm9DqEr2xhy_8Qkx8oUxVm84Ln1radHmKJgQx6We3jOWJ01XOAJz/)
@@ -18,12 +23,18 @@ A front to back bootcamp on everything Python, by Angela Yu.
 A community code challenge website for all languages
 ### [Hacker Rank](Hackerrank.com)
 A professional option to code challenges. Build your profile and prove your skills!
+### [LeetCode](LeetCode.com)
+A social platform for preparing technical interviews for companies in the IT industry.
 
 # Virtual Code Enviroments
 ### [Codeply.com](Codeply.com)
-A poweful online front end (html/js/css) code editor that allows the use of frameworks like Angular, React, and Vue. 
+A poweful online front end (html/js/css) code editor that allows the use of frameworks like Angular, React, and Vue.
+### [Repl.it](repl.it)
+A simple yet powerful online IDE, Editor, Compiler, Interpreter, and REPL. Code, compile, run, and host in 50+ programming languages.
 
 # Web Development
+### [HTML Tree Generator](https://chrome.google.com/webstore/detail/html-tree-generator/dlbbmhhaadfnbbdnjalilhdakfmiffeg/related)
+Chrome Plugin for viewing HTML Trees
 ### [CSS Button Generator](https://css3buttongenerator.com/)
 A tool for creating all types of buttons
 ### [Google Fonts](fonts.google.com)
@@ -46,3 +57,13 @@ A library of bootstrap usable elements
 Tool for checking how "mobile-friendly" a website is.
 ### [NMPJS.com](npmjs.com)
 Community library of node modules
+
+# Databases
+### [Popular NoSQL Database Comparisons](https://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis/)
+Article explaining features, pros, and cons of popular NoSQL databases
+### [Studio3T](Studio3t.com)
+Professional GUI & IDE for MongoDB
+
+# API's
+### [Postman](Postman.com)
+an API platform for building and using APIs
