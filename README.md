@@ -5,6 +5,8 @@ A collection of useful online tools for development!
 # Best of Links
 ### [devdocs.io](devdocs.io)
 Full list of Code Documentation for all languages, with offline accesability.
+### [devhints.io](devhints.io)
+Directory of Useful cheat sheets for many common coding languages and frameworks.
 
 # General 
 ### [StateOfJS.com](stateofjs.com)
