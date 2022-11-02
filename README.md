@@ -13,7 +13,7 @@ Directory of Useful cheat sheets for many common coding languages and frameworks
 information about the current state of the JavaScript Language.
 ### [Cryptii.com](cryptii.com)
 Online string encrytion playground
-### [StackEdit](stackedit.io)
+### [StackEdit](https://stackedit.io/)
 A Simple split screen browser editor for markdown sheets
 
 # Bootcamps and Coursework
